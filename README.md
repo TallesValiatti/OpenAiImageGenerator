@@ -1,7 +1,7 @@
-# DALL-E Image Creation and Data Extraction with .NET and Azure OpenAI
+# Creating and Manipulating AI-Generated Images with .NET and Azure OpenAI
 
-This repo is about creating images and extracting their data using .NET and Azure OpenAI's DALL-E technology. Azure OpenAI provides AI models for tasks such as text generation and image creation.
+This repo demonstrates how to integrate Azure OpenAI's DALL-E technology into a .NET application for creating and manipulating AI-generated images.
 
-In this tutorial, you will learn how to set up a .NET project, generate an image from a text description, and process the image data. 
+The code showcases how to harness Azure OpenAI's powerful image generation capabilities by utilizing .NET libraries to interact with the DALL-E model. The application is designed to take a text description, generate a corresponding image, and then process the image data for further use.
 
-The goal is to demonstrate how to leverage Azure OpenAI's capabilities within a .NET environment for creating and manipulating AI-generated images efficiently.
+This implementation highlights how .NET developers can leverage Azure OpenAI to incorporate advanced AI-driven image creation and manipulation into their applications, enabling new possibilities for creative and data-driven projects.
